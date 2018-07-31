@@ -16,3 +16,14 @@ p {
 a {
     color:red;
 }
+a:hover {
+	color:blue;
+}
+#important-paragraph:hover{
+	background-color: yellow;
+	font-size: 50px;
+}		
+.less-imp:hover{
+	background-color:lightblue;
+	color: blue;
+}	
